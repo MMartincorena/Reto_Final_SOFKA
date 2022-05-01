@@ -1,0 +1,1 @@
+export const HOST_API = "https://app-reserva-restaurante-back.herokuapp.com/"
